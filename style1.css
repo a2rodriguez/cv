@@ -1,0 +1,28 @@
+.border {
+  border-style: solid;
+}
+
+.manga {
+  font-family: arial, verdana, "sans sherif";
+  color: blue;
+  font-size: 14px;
+}
+
+.titre {
+  font-family: arial, verdana, "sans sherif";
+  color: lightblue;
+  font-size: 13px;
+}
+
+.soratra {
+  float: left;
+  margin-left: 120px;
+  font-family: arial, verdana, "sans sherif";
+  font-size: 12px;
+}
+
+.soratrahavana {
+  margin-right: 200px;
+  font-family: arial, verdana, "sans sherif";
+  font-size: 12px;
+}
